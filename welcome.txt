@@ -1,2 +1,6 @@
 welcome to my git
+<<<<<<< HEAD
 git is easy to learn.
+=======
+i am hari
+>>>>>>> 9f0e90eb24ac55bda3b63318188743c1f8ea587f
